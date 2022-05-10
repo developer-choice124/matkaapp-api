@@ -1,0 +1,497 @@
+[{
+  "_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "start_date": "2021-11-09",
+  "open": "02:15 pm",
+  "close": "02:45 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "619353a2b365f46524c0a7c7"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T10:58:24.499Z"
+  },
+  "updated_at": {
+    "$date": "2021-11-16T07:03:20.252Z"
+  },
+  "deleted_at": {
+    "$date": "2022-03-27T08:29:37.939Z"
+  },
+  "is_active": false
+},{
+  "_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "start_date": "2021-11-09",
+  "open": "3:45 pm",
+  "close": "5:45 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "619353a2b365f46524c0a7c7"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T11:46:23.199Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:26:24.817Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "start_date": "2021-11-09",
+  "open": "3:00 pm",
+  "close": "5:00 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T11:47:13.919Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:26:34.991Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "start_date": "2021-11-09",
+  "open": "9:30 pm",
+  "close": "11:45 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T11:48:22.798Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:26:48.938Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "start_date": "2021-11-09",
+  "open": "9:35 pm",
+  "close": "11:59 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T11:49:20.991Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:26:58.879Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "start_date": "2021-11-09",
+  "open": "1:00 pm",
+  "close": "2:00 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T11:50:11.449Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:27:19.767Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "start_date": "2021-11-09",
+  "open": "3:00 pm",
+  "close": "5:00 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T11:51:14.746Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:27:29.271Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "start_date": "2021-11-09",
+  "open": "9:00 pm",
+  "close": "11:00 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T11:52:01.530Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:27:38.229Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "start_date": "2021-11-09",
+  "open": "2:00 pm",
+  "close": "5:00 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    },
+    {
+      "$oid": "6235e9421fb06b9447e0e7fe"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T13:40:37.932Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-28T20:24:17.415Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "start_date": "2021-11-09",
+  "open": "9:00 pm",
+  "close": "11:00 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    },
+    {
+      "$oid": "5f7442e97962d344a00b9b59"
+    },
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "6192294dab542b1cdbdb76ba"
+    },
+    {
+      "$oid": "61eae1d5e4fb2a5ae92cd2ef"
+    },
+    {
+      "$oid": "622096f43c6ac832c056deee"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    },
+    {
+      "$oid": "6235e9421fb06b9447e0e7fe"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-09T13:41:41.268Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-28T20:23:45.969Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "619e1334bb1362d75008e85c"
+  },
+  "market_name": "TEST",
+  "start_date": "2021-11-24",
+  "open": "4:15 pm",
+  "close": "4:45 pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "5f74269a7962d344a00b9b4c"
+    },
+    {
+      "$oid": "618a6414db51bbc83f9df7a8"
+    }
+  ],
+  "created_at": {
+    "$date": "2021-11-24T10:25:56.131Z"
+  },
+  "updated_at": {
+    "$date": "2021-11-24T10:27:02.470Z"
+  },
+  "deleted_at": {
+    "$date": "2022-03-27T08:30:10.539Z"
+  },
+  "is_active": false
+},{
+  "_id": {
+    "$oid": "6235de901fb06b9447e0e7fb"
+  },
+  "market_name": "MALAD",
+  "start_date": "2022-03-19",
+  "open": "8:00 am",
+  "close": "8:30 am",
+  "is_thirdpl": true,
+  "supermaster": [],
+  "created_at": {
+    "$date": "2022-03-19T13:45:52.514Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T13:45:52.514Z"
+  },
+  "deleted_at": {
+    "$date": "2022-03-27T08:30:20.776Z"
+  },
+  "is_active": false
+},{
+  "_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "start_date": "2022-03-29",
+  "open": "12.30pm",
+  "close": "3.30pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "6235e9421fb06b9447e0e7fe"
+    },
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-03-28T20:28:33.044Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-28T20:39:16.134Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+},{
+  "_id": {
+    "$oid": "62421ab11fb06b9447e0eaf8"
+  },
+  "market_name": "RATAN MUMBAI NIGHT",
+  "start_date": "2022-03-29",
+  "open": "8.00pm",
+  "close": "10.30pm",
+  "is_thirdpl": true,
+  "supermaster": [
+    {
+      "$oid": "6235abcd1fb06b9447e0e7ef"
+    },
+    {
+      "$oid": "6235e9421fb06b9447e0e7fe"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-03-28T20:29:37.681Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-28T20:41:32.012Z"
+  },
+  "deleted_at": null,
+  "is_active": true
+}]

@@ -1,0 +1,625 @@
+[{
+  "_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "username": "admin",
+  "name": "Admin",
+  "password": {
+    "salt": "756b7ea8b4e16e6bd0489e4e6cdc2ab5",
+    "password": "c86db2a9e8c042cb83abbfecca23b1c4bebefd7627d59d2b37e4d73222737d2e31d0cf4a11ef4a3a46ebb4df5cfb3e703284419c10bedff5d5e51407c35f6c67"
+  },
+  "role": "admin",
+  "parent_id": 0,
+  "commission": 0,
+  "chips": 987917118,
+  "is_active": true,
+  "created_at": {
+    "$date": "2020-09-13T07:04:49.771Z"
+  },
+  "updated_at": {
+    "$date": "2020-09-13T07:04:49.771Z"
+  },
+  "is_first_login": false
+},{
+  "_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "username": "balaji123",
+  "name": "self",
+  "password": {
+    "salt": "73be84a1db3217ce0cde7582181b9179",
+    "password": "dfa3a8eb34d5aca8bf7848fbe9d5d7ad163a153a02e311cf22e3d7fdeff7ad144c3f66e35fd2b67b74fa51d7c2d91d19ac3ee1217ab5aafddaa2417b6fc59b88"
+  },
+  "role": "supermaster",
+  "number": "",
+  "is_first_login": false,
+  "parent_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "commission": 0,
+  "chips": 0,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-19T10:09:17.368Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:09:17.368Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "username": "ram123",
+  "name": "self",
+  "password": {
+    "salt": "4672fb86d3dcb6f7da46307a329e57e0",
+    "password": "e49650e6c76419e6ac89a0f0a8e87168ad6757b775f55ed4b806dc24a34ea76c3219d93310d3e623fc96459d900dbaaaa9b8f6aabd2d80fd46279bbf5afd49f7"
+  },
+  "role": "master",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "commission": 0,
+  "chips": 74330,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-19T10:09:36.599Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:09:36.599Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6235ae251fb06b9447e0e7f5"
+  },
+  "username": "ram1",
+  "name": "self ",
+  "password": {
+    "salt": "e51f7ecb9083d2d57f1f4279a8006409",
+    "password": "49b927141c2f2b1075aa60e922fc9fcde0b29a162e825c8ae87387aaccafc081ba6d1ecd8fc5152d9b48088876d3c5ddc209bd6e9598bb255776d521964a4881"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 0,
+  "is_active": false,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-19T10:19:17.101Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T10:19:17.101Z"
+  },
+  "deleted_at": {
+    "$date": "2022-03-20T02:19:55.393Z"
+  },
+  "is_blocked": false
+},{
+  "_id": {
+    "$oid": "6235d64a1fb06b9447e0e7f6"
+  },
+  "username": "Ram123",
+  "name": "Satish",
+  "password": {
+    "salt": "97e8716eef61f2c9b1ae041026ea2d2b",
+    "password": "67ba13c24df383c4031321e5edfaf2aca3fc2bf66b613202294843e1e41366962814f98f10e5d98000e5279255d9eb1c70a94a4188abcf09bea8a020c19f97c7"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 0,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-19T13:10:34.103Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T13:10:34.103Z"
+  },
+  "deleted_at": {
+    "$date": "2022-04-15T11:54:42.068Z"
+  }
+},{
+  "_id": {
+    "$oid": "6235e9421fb06b9447e0e7fe"
+  },
+  "username": "pune",
+  "name": "akshay bhai",
+  "password": {
+    "salt": "2938c0bfcdca29b1b60b75d55c9abc09",
+    "password": "8965b20dc0a79c3c3443ecbfbd8285d7796d0c368ba8d900c60a630b2018cae845b002494435a7ad54ef9f711c7a2f676f95b262e0f1989395cf9ccfd1eeac75"
+  },
+  "role": "supermaster",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "commission": 90,
+  "chips": 50000,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-19T14:31:30.031Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T14:31:30.031Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "62362b2b1fb06b9447e0e80d"
+  },
+  "username": "satish",
+  "name": "ram123456",
+  "password": {
+    "salt": "b55731d94f1a55b52956857f0c21369c",
+    "password": "09f872048c24fdf66e90525bd76537605f9c0032b0bf180a8cd86587f74cc3e166757aed392cda22904ad83c0c90d3a9c77ac7b647ca3e3e8190d91b6dfbdf27"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": true,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 0,
+  "is_active": false,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-19T19:12:43.505Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-19T19:12:43.505Z"
+  },
+  "deleted_at": {
+    "$date": "2022-03-20T02:03:43.404Z"
+  },
+  "is_blocked": false
+},{
+  "_id": {
+    "$oid": "62368c0c1fb06b9447e0e80e"
+  },
+  "username": "ram456",
+  "name": "ram456",
+  "password": {
+    "salt": "f94463f1f0a0def20736fd61162ebbf2",
+    "password": "4c1e4684cab1591aa9204be1f033fd03cbb7c07e33d300bf1d78c4beb8ed229c7e0689687faeb9d58f4bd38ef0b99ea81b17af9fba3401e8fcc65e56237c9b25"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 1500,
+  "is_active": false,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-20T02:06:04.129Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-20T02:06:04.129Z"
+  },
+  "deleted_at": {
+    "$date": "2022-03-20T08:29:18.077Z"
+  },
+  "is_blocked": false
+},{
+  "_id": {
+    "$oid": "6236e65e1fb06b9447e0e81d"
+  },
+  "username": "satihs",
+  "name": "ram123",
+  "password": {
+    "salt": "cd85afd85d3f4f2b19a74c52a0eaeaf0",
+    "password": "43fa02d5f1ae07dbb54715b8aa0a2fcf84e8095c01a0f11c74201596acb049458e8b6092574c8fcfe743cdcc06547e5c6fa56e5a88dc02d0437e1307987c8b3a"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 1800,
+  "is_active": false,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-20T08:31:26.222Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-20T08:31:26.222Z"
+  },
+  "deleted_at": {
+    "$date": "2022-03-20T08:37:36.118Z"
+  },
+  "is_blocked": false
+},{
+  "_id": {
+    "$oid": "6236e6991fb06b9447e0e820"
+  },
+  "username": "sun1",
+  "name": "demo",
+  "password": {
+    "salt": "d48decca11202cb81f519b8ec30f18ce",
+    "password": "dcf8cb1261cc60ae66a3107071d474063a65528f01f49476bb36ce1781cf7e44327a7068e4e6bd850b919d3ae4ec9904a75598c2b226de2d7133fca3aaf2d0da"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": false,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 0,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-20T08:32:25.276Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-20T08:32:25.276Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6236e6af1fb06b9447e0e821"
+  },
+  "username": "sun2",
+  "name": "demo",
+  "password": {
+    "salt": "922debb197dcc55d7c14e369281869b6",
+    "password": "53d91680b02f21efa6659a7f95928748d6ef680601b857728601bfaa21c9920f96ce70545e841973a8e4ae8d35676e76753ea306f771fc13f0ec1f18df5ee38d"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 680,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-20T08:32:47.241Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-20T08:32:47.241Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6236e8cf1fb06b9447e0e822"
+  },
+  "username": "ram789",
+  "name": "ram789",
+  "password": {
+    "salt": "7daa5fee5b23b575aa41deffe9d4a2b4",
+    "password": "7fb0a0b4b6dfcf5aee68e4dc01f28675879683976e5375d38fdfa7931971a8e001ac990fb24379f8eec8b0690e979a1a00b5fad7025302f5f416164260574fcf"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 860,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-20T08:41:51.697Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-20T08:41:51.697Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "62383fb21fb06b9447e0e825"
+  },
+  "username": "raj123",
+  "name": "raj123",
+  "password": {
+    "salt": "9f19bee721d345af3db2d702ec7e1c9a",
+    "password": "656a2e4e1f84963d86c9823b94e277920f6c69bce71fc5c0e4ddf107ce249e8e8f5ba04c2bf1e613fd5fb8539c790c0e47c4717c3047e75f32295a1c3c122d21"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 0,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-21T09:04:50.630Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-21T09:04:50.630Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6238e70c1fb06b9447e0e925"
+  },
+  "username": "Crack",
+  "name": "Crack",
+  "password": {
+    "salt": "8f6c9ca080efdfa4c9e7b550eb4108ab",
+    "password": "ded6e9b5c73b2baeff7969f845763f90a223663077a774f0d0a85de705d79a8cb1713ba41e25602e93ed671dbe99d97892f777d9d92dc7274213b3399c15be03"
+  },
+  "role": "user",
+  "number": "5466884555",
+  "parent_id": {
+    "$oid": "5f74269a7962d344a00b9b4c"
+  },
+  "chips": 0,
+  "otp": "30696m",
+  "is_mobile_verified": false,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-21T20:58:52.949Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-21T20:58:52.949Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6242166c1fb06b9447e0ead8"
+  },
+  "username": "atul",
+  "name": "Atul",
+  "password": {
+    "salt": "647d550306c5fb091117c856ff54ac7e",
+    "password": "74e3253265d15f19b8c3eb4bea4ab3ab010d64fd514848e8b235ef81a8328be2eacdb5456e703ddca316f43cafe6a638371ac933063e097bd70b3daaa40a4593"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 9210,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-28T20:11:24.294Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-28T20:11:24.294Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "624559921fb06b9447e0ed78"
+  },
+  "username": "jn.praveen07",
+  "name": "Praveen JN",
+  "password": {
+    "salt": "25ca815d9e3090641efa7f8cebd99944",
+    "password": "8c92ca116912b88378c4e2ee40ba0f34bf777d130aaeed296586ff07d1da374f486de6511f7fe1527d3195c28a23dc8e152e60233ce4a37b4cfdf14fa72cafc0"
+  },
+  "role": "user",
+  "number": "8105272443",
+  "parent_id": {
+    "$oid": "5f74269a7962d344a00b9b4c"
+  },
+  "chips": 0,
+  "otp": "c4wv7s",
+  "is_mobile_verified": true,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-31T07:34:42.222Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-31T07:34:42.222Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6245aced1fb06b9447e0edad"
+  },
+  "username": "praveenjn",
+  "name": "Praveen JN",
+  "password": {
+    "salt": "ce108291b8ae3820ed47ac91b6636fa5",
+    "password": "bbbe5fa89caa7967c915f68b372458c7ece3288359bd338272ec794729a9ab84a4ebc85c8960c3abe03f211709630370ddb67a7ca7a7b6503451e9d2382bb175"
+  },
+  "role": "user",
+  "number": "8105272443",
+  "parent_id": {
+    "$oid": "5f74269a7962d344a00b9b4c"
+  },
+  "chips": 0,
+  "otp": "npm841",
+  "is_mobile_verified": true,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-03-31T13:30:21.031Z"
+  },
+  "updated_at": {
+    "$date": "2022-03-31T13:30:21.031Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "6247e1841fb06b9447e0edaf"
+  },
+  "username": "demo007",
+  "name": "demo007",
+  "password": {
+    "salt": "ab8f866f2c4cb44aadd4cc53bdf10538",
+    "password": "3660a92f570dd0bac97fe87e86aaad9fe4c2a4bb77af786b36657a532ff7f99bc0780a31843d0cb508fca6574dd3cd6e36f5383d6b726a730ef4af7e16dfb313"
+  },
+  "role": "user",
+  "number": "9876543210",
+  "parent_id": {
+    "$oid": "5f74269a7962d344a00b9b4c"
+  },
+  "chips": 0,
+  "otp": "187cor",
+  "is_mobile_verified": false,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-04-02T05:39:16.074Z"
+  },
+  "updated_at": {
+    "$date": "2022-04-02T05:39:16.074Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "624847161fb06b9447e0edb0"
+  },
+  "username": "Bunty",
+  "name": "Bunty",
+  "password": {
+    "salt": "cf1c93f3a1d4e0eda698fa5659c21e32",
+    "password": "fda716d19e1025dea60ea4c6d245e6f4a8b67d4afa3567f9ab9b6a6fb0f3036f016bf789947fca16ab0ccd01394b882d63f1264a47bf6a314724de7931d14df5"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 3050,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-04-02T12:52:38.375Z"
+  },
+  "updated_at": {
+    "$date": "2022-04-02T12:52:38.375Z"
+  },
+  "deleted_at": null,
+  "is_blocked": false
+},{
+  "_id": {
+    "$oid": "624846ef0da1881fc1a1f8af"
+  },
+  "username": "demouser",
+  "name": "demouser",
+  "password": {
+    "salt": "77719ace60b962afe1f2ab5bdaba996e",
+    "password": "546787b2747ee48e9387f7435a8ecaf1bce1c3ee160ecc3c8b94f3d128361a1562049ed96fae60b2250237e1d618e18cbd09bea32ac072191740dc4c7e153c2d"
+  },
+  "role": "user",
+  "number": "9876543210",
+  "parent_id": {
+    "$oid": "5f74269a7962d344a00b9b4c"
+  },
+  "chips": 0,
+  "otp": "187cor",
+  "is_mobile_verified": false,
+  "is_active": true,
+  "is_locked": false
+},{
+  "_id": {
+    "$oid": "618a8faadb51bbc83f9df85f"
+  },
+  "username": "demo33",
+  "name": "demo33",
+  "password": {
+    "salt": "e9e6adfd87914968c6de7c8720a1ac1d",
+    "password": "6de74a67a6695aab2a50ff47ce347d7d50c134b76a68bd0f776a6b77d3d19b06b06e992f5c350061c5ca8feef3390cd7c432c61e71f09d5a2afeb1cf2baa536c"
+  },
+  "role": "user",
+  "number": "",
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 10070,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2021-11-09T15:11:38.048Z"
+  },
+  "updated_at": {
+    "$date": "2021-11-09T15:11:38.048Z"
+  },
+  "deleted_at": null,
+  "is_first_login": null
+},{
+  "_id": {
+    "$oid": "625ee3e433416c90a4242fef"
+  },
+  "username": "akash123",
+  "name": "akash",
+  "password": {
+    "salt": "7237fd709e4a9f1105257facf76c9a34",
+    "password": "8e239c8195ae6f18a8acc6039f424f2efdc4bfd76c51f9f268248651706b781134ca47409af57fde252c73b848a8f07962dfd4f0d2f548c241e4a032a0a09c69"
+  },
+  "role": "user",
+  "number": "7329868686",
+  "parent_id": {
+    "$oid": "5f74269a7962d344a00b9b4c"
+  },
+  "chips": 0,
+  "otp": "nv00ra",
+  "is_mobile_verified": true,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-04-19T16:31:32.669Z"
+  },
+  "updated_at": {
+    "$date": "2022-04-19T16:31:32.669Z"
+  },
+  "deleted_at": null
+},{
+  "_id": {
+    "$oid": "62664b5433416c90a424306a"
+  },
+  "username": "ram234",
+  "name": "ram234",
+  "password": {
+    "salt": "95f6fe95b9ba820d85a15eb45cc61bcb",
+    "password": "90e2812501fcb45f25cd664d194b590ad447c9dfe4982c055e52314c5f8dd9f5bf57022e666fda866ad08f5afa88418cf05dc0641a49026d47bb3dda1ad727d5"
+  },
+  "role": "user",
+  "number": "",
+  "is_first_login": null,
+  "parent_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "commission": 0,
+  "chips": 40,
+  "is_active": true,
+  "is_locked": false,
+  "created_at": {
+    "$date": "2022-04-25T07:18:44.903Z"
+  },
+  "updated_at": {
+    "$date": "2022-04-25T07:18:44.903Z"
+  },
+  "deleted_at": null
+}]

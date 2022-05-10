@@ -1,0 +1,7177 @@
+[{
+  "_id": {
+    "$oid": "618a75d5db51bbc83f9df7d3"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 9,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:21:25.594Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a75d5db51bbc83f9df7d4"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 4.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:21:25.594Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a75d5db51bbc83f9df7df"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 9,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:21:25.898Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a75d5db51bbc83f9df7e0"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 4.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:21:25.898Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a77a3db51bbc83f9df7eb"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 6,
+  "loss": 0,
+  "amount": 12,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:29:07.020Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a77a3db51bbc83f9df7ec"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 6,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:29:07.020Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a77a3db51bbc83f9df7f3"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 7.5,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:29:07.309Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a77a3db51bbc83f9df7f4"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 7.5,
+  "loss": 0,
+  "amount": 7.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T13:29:07.309Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a9c10db51bbc83f9df86f"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 63,
+  "amount": 27,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T16:04:32.912Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a9c10db51bbc83f9df870"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 13.5,
+  "amount": 13.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T16:04:32.912Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a9c94db51bbc83f9df87f"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 21,
+  "loss": 0,
+  "amount": 42,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T16:06:44.170Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a9c94db51bbc83f9df880"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 21,
+  "loss": 0,
+  "amount": 21,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T16:06:44.170Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a9e93db51bbc83f9df888"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T16:15:15.638Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a9e93db51bbc83f9df889"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-09T16:15:15.638Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b68b2db51bbc83f9df891"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:37:38.548Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b68b2db51bbc83f9df892"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:37:38.548Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b68c5db51bbc83f9df899"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:37:57.647Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b68c5db51bbc83f9df89a"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:37:57.647Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b68f5db51bbc83f9df8a1"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:38:45.209Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b68f5db51bbc83f9df8a2"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:38:45.209Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6928db51bbc83f9df8a9"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:39:36.582Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6928db51bbc83f9df8aa"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:39:36.582Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6943db51bbc83f9df8b1"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:40:03.634Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6943db51bbc83f9df8b2"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:40:03.634Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6af0db51bbc83f9df8c2"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 10430,
+  "amount": 4470,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:47:12.659Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6af0db51bbc83f9df8c3"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 2235,
+  "amount": 2235,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T06:47:12.659Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b91c4db51bbc83f9df8d0"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T09:32:52.863Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b91c4db51bbc83f9df8d1"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T09:32:52.863Z"
+  }
+},{
+  "_id": {
+    "$oid": "618bfbecdb51bbc83f9df8f7"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 300,
+  "loss": 0,
+  "amount": 600,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T17:05:48.896Z"
+  }
+},{
+  "_id": {
+    "$oid": "618bfbecdb51bbc83f9df8f8"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 300,
+  "loss": 0,
+  "amount": 300,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-10T17:05:48.896Z"
+  }
+},{
+  "_id": {
+    "$oid": "618cef0bdb51bbc83f9df916"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 6,
+  "loss": 0,
+  "amount": 12,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-11T10:23:07.291Z"
+  }
+},{
+  "_id": {
+    "$oid": "618cef0bdb51bbc83f9df917"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 6,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-11T10:23:07.291Z"
+  }
+},{
+  "_id": {
+    "$oid": "618cef0bdb51bbc83f9df920"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 91,
+  "amount": 39,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-11T10:23:07.556Z"
+  }
+},{
+  "_id": {
+    "$oid": "618cef0bdb51bbc83f9df921"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 19.5,
+  "amount": 19.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-11T10:23:07.556Z"
+  }
+},{
+  "_id": {
+    "$oid": "618d3cdadb51bbc83f9df93c"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 1120,
+  "amount": 480,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-11T15:55:06.236Z"
+  }
+},{
+  "_id": {
+    "$oid": "618d3cdadb51bbc83f9df93d"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 240,
+  "amount": 240,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-11T15:55:06.236Z"
+  }
+},{
+  "_id": {
+    "$oid": "618e0f43db51bbc83f9df94f"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-12T06:52:51.818Z"
+  }
+},{
+  "_id": {
+    "$oid": "618e0f43db51bbc83f9df950"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-12T06:52:51.818Z"
+  }
+},{
+  "_id": {
+    "$oid": "618e52b0ab542b1cdbdb76a2"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 30,
+  "loss": 0,
+  "amount": 60,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-12T11:40:32.306Z"
+  }
+},{
+  "_id": {
+    "$oid": "618e52b0ab542b1cdbdb76a3"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 30,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-12T11:40:32.306Z"
+  }
+},{
+  "_id": {
+    "$oid": "619234a6ab542b1cdbdb76cf"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-15T10:21:26.207Z"
+  }
+},{
+  "_id": {
+    "$oid": "619234a6ab542b1cdbdb76d0"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-15T10:21:26.207Z"
+  }
+},{
+  "_id": {
+    "$oid": "619234a6ab542b1cdbdb76df"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 61.5,
+  "loss": 0,
+  "amount": 123,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-15T10:21:26.473Z"
+  }
+},{
+  "_id": {
+    "$oid": "619234a6ab542b1cdbdb76e0"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 61.5,
+  "loss": 0,
+  "amount": 61.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-15T10:21:26.473Z"
+  }
+},{
+  "_id": {
+    "$oid": "61938ed2b365f46524c0a7e0"
+  },
+  "user_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 10000,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-16T10:58:26.093Z"
+  }
+},{
+  "_id": {
+    "$oid": "61938ed2b365f46524c0a7e1"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-16T10:58:26.093Z"
+  }
+},{
+  "_id": {
+    "$oid": "619665d6b365f46524c0a842"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T14:40:22.699Z"
+  }
+},{
+  "_id": {
+    "$oid": "619665d6b365f46524c0a843"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T14:40:22.699Z"
+  }
+},{
+  "_id": {
+    "$oid": "61966714b365f46524c0a84d"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T14:45:40.446Z"
+  }
+},{
+  "_id": {
+    "$oid": "61966714b365f46524c0a84e"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T14:45:40.446Z"
+  }
+},{
+  "_id": {
+    "$oid": "6196b30fb365f46524c0a86a"
+  },
+  "user_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 1500,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T20:09:51.229Z"
+  }
+},{
+  "_id": {
+    "$oid": "6196b30fb365f46524c0a86b"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T20:09:51.229Z"
+  }
+},{
+  "_id": {
+    "$oid": "6196b3c5b365f46524c0a873"
+  },
+  "user_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 18000,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T20:12:53.565Z"
+  }
+},{
+  "_id": {
+    "$oid": "6196b3c5b365f46524c0a874"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-18T20:12:53.565Z"
+  }
+},{
+  "_id": {
+    "$oid": "61977c45b365f46524c0a888"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-19T10:28:21.418Z"
+  }
+},{
+  "_id": {
+    "$oid": "61977c45b365f46524c0a889"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-19T10:28:21.418Z"
+  }
+},{
+  "_id": {
+    "$oid": "61977cb5b365f46524c0a8ac"
+  },
+  "user_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 14200,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-19T10:30:13.216Z"
+  }
+},{
+  "_id": {
+    "$oid": "61977cb5b365f46524c0a8ad"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-19T10:30:13.216Z"
+  }
+},{
+  "_id": {
+    "$oid": "61989325b365f46524c0a8bd"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 63,
+  "amount": 27,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-20T06:18:13.244Z"
+  }
+},{
+  "_id": {
+    "$oid": "61989325b365f46524c0a8be"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 13.5,
+  "amount": 13.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-20T06:18:13.244Z"
+  }
+},{
+  "_id": {
+    "$oid": "619e1428bb1362d75008e866"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "619e1334bb1362d75008e85c"
+  },
+  "market_name": "TEST",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-24T10:30:00.465Z"
+  }
+},{
+  "_id": {
+    "$oid": "619e1428bb1362d75008e867"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "619e1334bb1362d75008e85c"
+  },
+  "market_name": "TEST",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-11-24T10:30:00.465Z"
+  }
+},{
+  "_id": {
+    "$oid": "61aa0774d14c0167b8ccb905"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 7.5,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-03T12:03:00.747Z"
+  }
+},{
+  "_id": {
+    "$oid": "61aa0774d14c0167b8ccb906"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 7.5,
+  "loss": 0,
+  "amount": 7.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-03T12:03:00.747Z"
+  }
+},{
+  "_id": {
+    "$oid": "61aa0775d14c0167b8ccb90f"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-03T12:03:01.100Z"
+  }
+},{
+  "_id": {
+    "$oid": "61aa0775d14c0167b8ccb910"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-03T12:03:01.100Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b0d6ffd14c0167b8ccb949"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 199.5,
+  "amount": 85.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-08T16:02:07.573Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b0d6ffd14c0167b8ccb94a"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 42.75,
+  "amount": 42.75,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-08T16:02:07.573Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b0d787d14c0167b8ccb957"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 1478.4,
+  "amount": 633.6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-08T16:04:23.314Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b0d787d14c0167b8ccb958"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 316.8,
+  "amount": 316.8,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-08T16:04:23.314Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b15b68d14c0167b8ccb967"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 20930,
+  "amount": 8970,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T01:27:04.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b15b68d14c0167b8ccb968"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 4485,
+  "amount": 4485,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T01:27:04.168Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b15b68d14c0167b8ccb973"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 45,
+  "loss": 0,
+  "amount": 90,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T01:27:04.937Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b15b68d14c0167b8ccb974"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 45,
+  "loss": 0,
+  "amount": 45,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T01:27:04.937Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b15c29d14c0167b8ccb97c"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 7.5,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T01:30:17.614Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b15c29d14c0167b8ccb97d"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 7.5,
+  "loss": 0,
+  "amount": 7.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T01:30:17.614Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b242e4d14c0167b8ccb997"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 630,
+  "amount": 270,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T17:54:44.821Z"
+  }
+},{
+  "_id": {
+    "$oid": "61b242e4d14c0167b8ccb998"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 135,
+  "amount": 135,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-09T17:54:44.821Z"
+  }
+},{
+  "_id": {
+    "$oid": "61bb7070d14c0167b8ccb9d6"
+  },
+  "user_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 12000,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-16T16:59:28.882Z"
+  }
+},{
+  "_id": {
+    "$oid": "61bb7070d14c0167b8ccb9d7"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-16T16:59:28.882Z"
+  }
+},{
+  "_id": {
+    "$oid": "61bb70d6d14c0167b8ccb9ec"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-16T17:01:10.320Z"
+  }
+},{
+  "_id": {
+    "$oid": "61bb70d6d14c0167b8ccb9ed"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2021-12-16T17:01:10.320Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4a0d3c6ac832c056de43"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 48,
+  "loss": 0,
+  "amount": 96,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:42:21.603Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4a0d3c6ac832c056de44"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 48,
+  "loss": 0,
+  "amount": 48,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:42:21.603Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4a273c6ac832c056de4e"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:42:47.701Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4a273c6ac832c056de4f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:42:47.701Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4a6a3c6ac832c056de56"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:43:54.244Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4a6a3c6ac832c056de57"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:43:54.244Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4b133c6ac832c056de5e"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:46:43.303Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4b133c6ac832c056de5f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:46:43.303Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4b133c6ac832c056de66"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:46:43.649Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4b133c6ac832c056de67"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:46:43.649Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4b6b3c6ac832c056de6e"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:48:11.855Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4b6b3c6ac832c056de6f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:48:11.855Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4bdc3c6ac832c056de7e"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 120,
+  "loss": 0,
+  "amount": 240,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:50:04.405Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4bdc3c6ac832c056de7f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 120,
+  "loss": 0,
+  "amount": 120,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:50:04.405Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4bee3c6ac832c056de8c"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:50:22.560Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4bee3c6ac832c056de8d"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:50:22.560Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c033c6ac832c056dea4"
+  },
+  "user_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 6200,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:50:43.273Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c033c6ac832c056dea5"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:50:43.273Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c153c6ac832c056deb6"
+  },
+  "user_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "61922986ab542b1cdbdb76bd"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:01.550Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c153c6ac832c056deb7"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6192294dab542b1cdbdb76ba"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:01.550Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c273c6ac832c056debe"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 37.5,
+  "loss": 0,
+  "amount": 75,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:19.803Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c273c6ac832c056debf"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 37.5,
+  "loss": 0,
+  "amount": 37.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:19.803Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c363c6ac832c056dec8"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 30,
+  "loss": 0,
+  "amount": 60,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:34.144Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c363c6ac832c056dec9"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 30,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:34.144Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c483c6ac832c056ded0"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 630,
+  "amount": 270,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:52.384Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c483c6ac832c056ded1"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 135,
+  "amount": 135,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:51:52.384Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c553c6ac832c056ded8"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 450,
+  "loss": 0,
+  "amount": 900,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:52:05.291Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4c553c6ac832c056ded9"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 450,
+  "loss": 0,
+  "amount": 450,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:52:05.291Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4ce53c6ac832c056dee3"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "619e1334bb1362d75008e85c"
+  },
+  "market_name": "TEST",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:54:29.456Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4ce53c6ac832c056dee4"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "619e1334bb1362d75008e85c"
+  },
+  "market_name": "TEST",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:54:29.456Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4d0a3c6ac832c056deeb"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:55:06.637Z"
+  }
+},{
+  "_id": {
+    "$oid": "621f4d0a3c6ac832c056deec"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-02T10:55:06.637Z"
+  }
+},{
+  "_id": {
+    "$oid": "623862e41fb06b9447e0e842"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 350,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T11:35:00.965Z"
+  }
+},{
+  "_id": {
+    "$oid": "623862e41fb06b9447e0e843"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T11:35:00.965Z"
+  }
+},{
+  "_id": {
+    "$oid": "623862fb1fb06b9447e0e853"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T11:35:23.634Z"
+  }
+},{
+  "_id": {
+    "$oid": "623862fb1fb06b9447e0e854"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T11:35:23.634Z"
+  }
+},{
+  "_id": {
+    "$oid": "623873731fb06b9447e0e870"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 450,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T12:45:39.681Z"
+  }
+},{
+  "_id": {
+    "$oid": "623873731fb06b9447e0e871"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T12:45:39.681Z"
+  }
+},{
+  "_id": {
+    "$oid": "623873891fb06b9447e0e898"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T12:46:01.126Z"
+  }
+},{
+  "_id": {
+    "$oid": "623873891fb06b9447e0e899"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T12:46:01.126Z"
+  }
+},{
+  "_id": {
+    "$oid": "623873a31fb06b9447e0e8aa"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T12:46:27.951Z"
+  }
+},{
+  "_id": {
+    "$oid": "623873a31fb06b9447e0e8ab"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T12:46:27.951Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c2cd1fb06b9447e0e8da"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:24:13.143Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c2cd1fb06b9447e0e8db"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:24:13.143Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c2ee1fb06b9447e0e8f5"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:24:46.930Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c2ee1fb06b9447e0e8f6"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:24:46.930Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c3201fb06b9447e0e8ff"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 400,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:25:36.578Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c3201fb06b9447e0e900"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:25:36.578Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c3571fb06b9447e0e922"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:26:31.839Z"
+  }
+},{
+  "_id": {
+    "$oid": "6238c3571fb06b9447e0e923"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-21T18:26:31.839Z"
+  }
+},{
+  "_id": {
+    "$oid": "6239ec6f1fb06b9447e0e957"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "triple-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-22T15:34:07.774Z"
+  }
+},{
+  "_id": {
+    "$oid": "6239ec6f1fb06b9447e0e958"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "triple-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-22T15:34:07.774Z"
+  }
+},{
+  "_id": {
+    "$oid": "6239ec701fb06b9447e0e963"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 350,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-22T15:34:08.065Z"
+  }
+},{
+  "_id": {
+    "$oid": "6239ec701fb06b9447e0e964"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-22T15:34:08.065Z"
+  }
+},{
+  "_id": {
+    "$oid": "623b245c1fb06b9447e0e993"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-23T13:45:00.093Z"
+  }
+},{
+  "_id": {
+    "$oid": "623b245c1fb06b9447e0e994"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-23T13:45:00.093Z"
+  }
+},{
+  "_id": {
+    "$oid": "623b24811fb06b9447e0e9c8"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-23T13:45:37.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "623b24811fb06b9447e0e9c9"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-23T13:45:37.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ca41fb06b9447e0e9db"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 700,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:13:24.594Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ca41fb06b9447e0e9dc"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:13:24.594Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cba1fb06b9447e0e9e2"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:13:46.994Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cba1fb06b9447e0e9e3"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:13:46.994Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cbb1fb06b9447e0e9e9"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:13:47.289Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cbb1fb06b9447e0e9ea"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:13:47.289Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cd31fb06b9447e0e9f2"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 9,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:11.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cd31fb06b9447e0e9f3"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 4.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:11.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cd41fb06b9447e0e9f9"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 63,
+  "amount": 27,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:12.025Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cd41fb06b9447e0e9fa"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 13.5,
+  "amount": 13.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:12.025Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ce01fb06b9447e0ea00"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:24.550Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ce01fb06b9447e0ea01"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:24.550Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ce01fb06b9447e0ea09"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 9,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:24.845Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ce01fb06b9447e0ea0a"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 4.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:24.845Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cf21fb06b9447e0ea13"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:42.616Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cf21fb06b9447e0ea14"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:42.616Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cf21fb06b9447e0ea1e"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:42.905Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cf21fb06b9447e0ea1f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:42.905Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cfd1fb06b9447e0ea25"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:53.417Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401cfd1fb06b9447e0ea26"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:14:53.417Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401d071fb06b9447e0ea2e"
+  },
+  "user_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 400,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:15:03.875Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401d071fb06b9447e0ea2f"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:15:03.875Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401d141fb06b9447e0ea37"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:15:16.871Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401d141fb06b9447e0ea38"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:15:16.871Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401d1e1fb06b9447e0ea3e"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:15:26.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401d1e1fb06b9447e0ea3f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:15:26.725Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401dff1fb06b9447e0ea49"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 9,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:11.839Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401dff1fb06b9447e0ea4a"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 4.5,
+  "loss": 0,
+  "amount": 4.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:11.839Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e0a1fb06b9447e0ea59"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:22.751Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e0a1fb06b9447e0ea5a"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:22.751Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e0a1fb06b9447e0ea5b"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:22.751Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e0a1fb06b9447e0ea5c"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:22.751Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e181fb06b9447e0ea65"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:36.952Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e181fb06b9447e0ea66"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:19:36.952Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e3a1fb06b9447e0ea73"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "triple-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 60,
+  "loss": 0,
+  "amount": 120,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:10.905Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e3a1fb06b9447e0ea74"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "triple-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 60,
+  "loss": 0,
+  "amount": 60,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:10.905Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e3b1fb06b9447e0ea7a"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:11.204Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e3b1fb06b9447e0ea7b"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:11.204Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e461fb06b9447e0ea81"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:22.351Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e461fb06b9447e0ea82"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:22.351Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e561fb06b9447e0ea89"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:38.297Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e561fb06b9447e0ea8a"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:38.297Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e6b1fb06b9447e0ea93"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 6,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:59.720Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e6b1fb06b9447e0ea94"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 3,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:20:59.720Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e761fb06b9447e0ea9f"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 45,
+  "loss": 0,
+  "amount": 90,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:21:10.635Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e761fb06b9447e0eaa0"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 45,
+  "loss": 0,
+  "amount": 45,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:21:10.635Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e871fb06b9447e0eaa6"
+  },
+  "user_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "622097733c6ac832c056deef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:21:27.943Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401e871fb06b9447e0eaa7"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "622096f43c6ac832c056deee"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:21:27.943Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ed01fb06b9447e0eaad"
+  },
+  "user_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 0,
+  "loss": 1386,
+  "amount": 594,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:22:40.420Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401ed01fb06b9447e0eaae"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 297,
+  "amount": 297,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:22:40.420Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401edf1fb06b9447e0eab4"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:22:55.069Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401edf1fb06b9447e0eab5"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:22:55.069Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401f041fb06b9447e0eabb"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:23:32.918Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401f041fb06b9447e0eabc"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:23:32.918Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401f461fb06b9447e0eac2"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 30,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:24:38.097Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401f461fb06b9447e0eac3"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "market_name": "DEMO ",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 15,
+  "loss": 0,
+  "amount": 15,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:24:38.097Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401fe51fb06b9447e0eac9"
+  },
+  "user_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a645cdb51bbc83f9df7aa"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 3,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:27:17.200Z"
+  }
+},{
+  "_id": {
+    "$oid": "62401fe51fb06b9447e0eaca"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "618a6414db51bbc83f9df7a8"
+  },
+  "profit": 1.5,
+  "loss": 0,
+  "amount": 1.5,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-27T08:27:17.200Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242160f1fb06b9447e0ead5"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-28T20:09:51.776Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242160f1fb06b9447e0ead6"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-28T20:09:51.776Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242eeeb1fb06b9447e0eb36"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:35:07.045Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242eeeb1fb06b9447e0eb37"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:35:07.045Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242ef101fb06b9447e0eb3f"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:35:44.987Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242ef101fb06b9447e0eb40"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:35:44.987Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242ef111fb06b9447e0eb47"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:35:45.237Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242ef111fb06b9447e0eb48"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:35:45.237Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242ef491fb06b9447e0eb4f"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:36:41.849Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242ef491fb06b9447e0eb50"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:36:41.849Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242f0271fb06b9447e0eb5a"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 80,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:40:23.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242f0271fb06b9447e0eb5b"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:40:23.434Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242f0391fb06b9447e0eb63"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:40:41.072Z"
+  }
+},{
+  "_id": {
+    "$oid": "6242f0391fb06b9447e0eb64"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T11:40:41.072Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433b8a1fb06b9447e0eb7e"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:02:02.495Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433b8a1fb06b9447e0eb7f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:02:02.495Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433c4d1fb06b9447e0eb87"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:05:17.145Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433c4d1fb06b9447e0eb88"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:05:17.145Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433c841fb06b9447e0eb8f"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:06:12.844Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433c841fb06b9447e0eb90"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:06:12.844Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433ca11fb06b9447e0eb97"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:06:41.522Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433ca11fb06b9447e0eb98"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:06:41.522Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433fc31fb06b9447e0eb9f"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 90,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:20:03.546Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433fc31fb06b9447e0eba0"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:20:03.546Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433fd31fb06b9447e0eba8"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:20:19.052Z"
+  }
+},{
+  "_id": {
+    "$oid": "62433fd31fb06b9447e0eba9"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-29T17:20:19.052Z"
+  }
+},{
+  "_id": {
+    "$oid": "624442f91fb06b9447e0ec07"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:46:01.483Z"
+  }
+},{
+  "_id": {
+    "$oid": "624442f91fb06b9447e0ec08"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:46:01.483Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244431e1fb06b9447e0ec10"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:46:38.404Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244431e1fb06b9447e0ec11"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:46:38.404Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244433d1fb06b9447e0ec1a"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:47:09.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244433d1fb06b9447e0ec1b"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:47:09.266Z"
+  }
+},{
+  "_id": {
+    "$oid": "624443a01fb06b9447e0ec22"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:48:48.537Z"
+  }
+},{
+  "_id": {
+    "$oid": "624443a01fb06b9447e0ec23"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:48:48.537Z"
+  }
+},{
+  "_id": {
+    "$oid": "624443ca1fb06b9447e0ec2b"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:49:30.558Z"
+  }
+},{
+  "_id": {
+    "$oid": "624443ca1fb06b9447e0ec2c"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:49:30.558Z"
+  }
+},{
+  "_id": {
+    "$oid": "624443f91fb06b9447e0ec33"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:50:17.307Z"
+  }
+},{
+  "_id": {
+    "$oid": "624443f91fb06b9447e0ec34"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:50:17.307Z"
+  }
+},{
+  "_id": {
+    "$oid": "624444951fb06b9447e0ec3c"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:52:53.400Z"
+  }
+},{
+  "_id": {
+    "$oid": "624444951fb06b9447e0ec3d"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:52:53.400Z"
+  }
+},{
+  "_id": {
+    "$oid": "624444ac1fb06b9447e0ec44"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:53:16.658Z"
+  }
+},{
+  "_id": {
+    "$oid": "624444ac1fb06b9447e0ec45"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:53:16.658Z"
+  }
+},{
+  "_id": {
+    "$oid": "624444bf1fb06b9447e0ec4c"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:53:35.772Z"
+  }
+},{
+  "_id": {
+    "$oid": "624444bf1fb06b9447e0ec4d"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:53:35.772Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445101fb06b9447e0ec54"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:54:56.365Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445101fb06b9447e0ec55"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:54:56.365Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445b81fb06b9447e0ec5c"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:57:44.199Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445b81fb06b9447e0ec5d"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:57:44.199Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445cb1fb06b9447e0ec65"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:58:03.908Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445cb1fb06b9447e0ec66"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:58:03.908Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445f11fb06b9447e0ec6d"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:58:41.089Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445f11fb06b9447e0ec6e"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:58:41.089Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445f11fb06b9447e0ec75"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:58:41.347Z"
+  }
+},{
+  "_id": {
+    "$oid": "624445f11fb06b9447e0ec76"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "market_name": "RAJDHANI DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T11:58:41.347Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448d61fb06b9447e0ec7d"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:02.576Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448d61fb06b9447e0ec7e"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:02.576Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448e91fb06b9447e0ec86"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:21.072Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448e91fb06b9447e0ec87"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:21.072Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448f91fb06b9447e0ec8e"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:37.243Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448f91fb06b9447e0ec8f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:37.243Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448f91fb06b9447e0ec96"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:37.494Z"
+  }
+},{
+  "_id": {
+    "$oid": "624448f91fb06b9447e0ec97"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "market_name": "BALAJI KUBER DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:37.494Z"
+  }
+},{
+  "_id": {
+    "$oid": "624449061fb06b9447e0ec9e"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:50.827Z"
+  }
+},{
+  "_id": {
+    "$oid": "624449061fb06b9447e0ec9f"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:11:50.827Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453731fb06b9447e0eca6"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:56:19.411Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453731fb06b9447e0eca7"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:56:19.411Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453851fb06b9447e0ecae"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:56:37.270Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453851fb06b9447e0ecaf"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "market_name": "KALYAN",
+  "betting_time": "close",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:56:37.271Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244539c1fb06b9447e0ecb6"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:57:00.369Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244539c1fb06b9447e0ecb7"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:57:00.369Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453bd1fb06b9447e0ecbe"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:57:33.112Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453bd1fb06b9447e0ecbf"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:57:33.112Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453bd1fb06b9447e0ecc6"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:57:33.385Z"
+  }
+},{
+  "_id": {
+    "$oid": "624453bd1fb06b9447e0ecc7"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T12:57:33.385Z"
+  }
+},{
+  "_id": {
+    "$oid": "624485f71fb06b9447e0ecce"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 90,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:31:51.389Z"
+  }
+},{
+  "_id": {
+    "$oid": "624485f71fb06b9447e0eccf"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:31:51.389Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486111fb06b9447e0ecd7"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:32:17.913Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486111fb06b9447e0ecd8"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:32:17.913Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244863f1fb06b9447e0ecdf"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:33:03.359Z"
+  }
+},{
+  "_id": {
+    "$oid": "6244863f1fb06b9447e0ece0"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:33:03.359Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486581fb06b9447e0ece8"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:33:28.690Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486581fb06b9447e0ece9"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:33:28.690Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486581fb06b9447e0ecf0"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:33:28.942Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486581fb06b9447e0ecf1"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "market_name": "MILAN NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:33:28.942Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486791fb06b9447e0ecfb"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:34:01.108Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486791fb06b9447e0ecfc"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:34:01.108Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486c51fb06b9447e0ed04"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:35:17.263Z"
+  }
+},{
+  "_id": {
+    "$oid": "624486c51fb06b9447e0ed05"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "market_name": "BALAJI KUBER NIGHT",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:35:17.263Z"
+  }
+},{
+  "_id": {
+    "$oid": "624487211fb06b9447e0ed0d"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:36:49.416Z"
+  }
+},{
+  "_id": {
+    "$oid": "624487211fb06b9447e0ed0e"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "open",
+  "bet_type": "double-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:36:49.416Z"
+  }
+},{
+  "_id": {
+    "$oid": "624488051fb06b9447e0ed15"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:40:37.817Z"
+  }
+},{
+  "_id": {
+    "$oid": "624488051fb06b9447e0ed16"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:40:37.817Z"
+  }
+},{
+  "_id": {
+    "$oid": "624488061fb06b9447e0ed1d"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:40:38.067Z"
+  }
+},{
+  "_id": {
+    "$oid": "624488061fb06b9447e0ed1e"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "market_name": "RATAN MUMBAI DAY",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-30T16:40:38.067Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581041fb06b9447e0ed81"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:23:00.396Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581041fb06b9447e0ed82"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:23:00.396Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581041fb06b9447e0ed89"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:23:00.677Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581041fb06b9447e0ed8a"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:23:00.677Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581321fb06b9447e0ed91"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:23:46.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581321fb06b9447e0ed92"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "market_name": "MILAN DAY ",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:23:46.604Z"
+  }
+},{
+  "_id": {
+    "$oid": "6245815c1fb06b9447e0ed9a"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:24:28.432Z"
+  }
+},{
+  "_id": {
+    "$oid": "6245815c1fb06b9447e0ed9b"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:24:28.432Z"
+  }
+},{
+  "_id": {
+    "$oid": "6245815d1fb06b9447e0eda2"
+  },
+  "user_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 90,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:24:29.240Z"
+  }
+},{
+  "_id": {
+    "$oid": "6245815d1fb06b9447e0eda3"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "market_name": "MAIN BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:24:29.240Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581881fb06b9447e0edaa"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:25:12.471Z"
+  }
+},{
+  "_id": {
+    "$oid": "624581881fb06b9447e0edab"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "market_name": "TIME BAZAR",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-03-31T10:25:12.471Z"
+  }
+},{
+  "_id": {
+    "$oid": "626036f233416c90a4243007"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T16:38:10.057Z"
+  }
+},{
+  "_id": {
+    "$oid": "626036f233416c90a4243008"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T16:38:10.057Z"
+  }
+},{
+  "_id": {
+    "$oid": "62606b5633416c90a424301a"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T20:21:42.382Z"
+  }
+},{
+  "_id": {
+    "$oid": "62606b5633416c90a424301b"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single-patti",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T20:21:42.382Z"
+  }
+},{
+  "_id": {
+    "$oid": "62606b5633416c90a4243026"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T20:21:42.710Z"
+  }
+},{
+  "_id": {
+    "$oid": "62606b5633416c90a4243027"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "close",
+  "bet_type": "single",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T20:21:42.710Z"
+  }
+},{
+  "_id": {
+    "$oid": "62606bb133416c90a4243034"
+  },
+  "user_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "6235abe01fb06b9447e0e7f0"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T20:23:13.981Z"
+  }
+},{
+  "_id": {
+    "$oid": "62606bb133416c90a4243035"
+  },
+  "user_id": {
+    "$oid": "5f5dc491adb2be3d980d56e9"
+  },
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "market_name": "RAJDHANI NIGHT",
+  "betting_time": "open",
+  "bet_type": "jodi",
+  "sender_id": {
+    "$oid": "6235abcd1fb06b9447e0e7ef"
+  },
+  "profit": 0,
+  "loss": 0,
+  "amount": 0,
+  "status": "CREDIT",
+  "created_at": {
+    "$date": "2022-04-20T20:23:13.981Z"
+  }
+}]

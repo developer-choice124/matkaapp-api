@@ -1,0 +1,883 @@
+[{
+  "_id": {
+    "$oid": "618a714cdb51bbc83f9df7bd"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "created_at": {
+    "$date": "2021-11-09T13:02:04.841Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a7211db51bbc83f9df7be"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "created_at": {
+    "$date": "2021-11-09T13:05:21.437Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a7558db51bbc83f9df7bf"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "created_at": {
+    "$date": "2021-11-09T13:19:20.242Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a7565db51bbc83f9df7c0"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "created_at": {
+    "$date": "2021-11-09T13:19:33.613Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a86a8db51bbc83f9df80a"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:33:12.684Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a86b7db51bbc83f9df80b"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:33:27.935Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a86bcdb51bbc83f9df80c"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:33:32.609Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a86c1db51bbc83f9df80d"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:33:37.110Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a86c5db51bbc83f9df80e"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a7a95db51bbc83f9df7f9"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:33:41.066Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8b57db51bbc83f9df81f"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:53:11.566Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8b62db51bbc83f9df820"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:53:22.480Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8b6cdb51bbc83f9df821"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a5f8fdb51bbc83f9df7a1"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:53:31.999Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8bd2db51bbc83f9df822"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:55:14.497Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8bdbdb51bbc83f9df823"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:55:23.243Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8be4db51bbc83f9df824"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:55:32.584Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8befdb51bbc83f9df825"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:55:43.094Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8bf7db51bbc83f9df826"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a5fc1db51bbc83f9df7a2"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:55:51.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c48db51bbc83f9df827"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:57:12.968Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c4fdb51bbc83f9df828"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:57:19.738Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c54db51bbc83f9df829"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a6006db51bbc83f9df7a3"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:57:24.630Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c7edb51bbc83f9df82a"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:58:06.016Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c84db51bbc83f9df82b"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:58:12.379Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c8ddb51bbc83f9df82c"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:58:21.499Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c92db51bbc83f9df82d"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:58:26.238Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8c98db51bbc83f9df82e"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a6040db51bbc83f9df7a4"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:58:32.917Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8cacdb51bbc83f9df831"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:58:52.687Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8cb4db51bbc83f9df832"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:59:00.798Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8cbbdb51bbc83f9df833"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:59:07.848Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8cc3db51bbc83f9df836"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:59:15.220Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8ccbdb51bbc83f9df837"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a6073db51bbc83f9df7a5"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:59:23.819Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8ce2db51bbc83f9df838"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:59:46.237Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8ceadb51bbc83f9df839"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "created_at": {
+    "$date": "2021-11-09T14:59:54.557Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8cf2db51bbc83f9df83a"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:00:02.285Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8cf8db51bbc83f9df83b"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:00:08.586Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d01db51bbc83f9df83c"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a60b2db51bbc83f9df7a6"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:00:17.112Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d16db51bbc83f9df83f"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:00:38.400Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d1fdb51bbc83f9df840"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:00:47.496Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d27db51bbc83f9df841"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:00:55.783Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d2ddb51bbc83f9df842"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:01:01.969Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d35db51bbc83f9df843"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a60e1db51bbc83f9df7a7"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:01:09.796Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d48db51bbc83f9df844"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:01:28.977Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d51db51bbc83f9df845"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:01:37.924Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d58db51bbc83f9df846"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:01:44.925Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d61db51bbc83f9df847"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:01:53.404Z"
+  }
+},{
+  "_id": {
+    "$oid": "618a8d6bdb51bbc83f9df848"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a7a55db51bbc83f9df7f8"
+  },
+  "created_at": {
+    "$date": "2021-11-09T15:02:03.649Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6a6cdb51bbc83f9df8b5"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "1000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "created_at": {
+    "$date": "2021-11-10T06:45:00.214Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6a76db51bbc83f9df8b6"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "1000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "created_at": {
+    "$date": "2021-11-10T06:45:10.640Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6a80db51bbc83f9df8b7"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "1000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "created_at": {
+    "$date": "2021-11-10T06:45:20.119Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6a86db51bbc83f9df8b8"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "1000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "created_at": {
+    "$date": "2021-11-10T06:45:26.332Z"
+  }
+},{
+  "_id": {
+    "$oid": "618b6a91db51bbc83f9df8b9"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "1000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "618a5450db51bbc83f9df7a0"
+  },
+  "created_at": {
+    "$date": "2021-11-10T06:45:37.259Z"
+  }
+},{
+  "_id": {
+    "$oid": "619e1349bb1362d75008e85d"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "10",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "619e1334bb1362d75008e85c"
+  },
+  "created_at": {
+    "$date": "2021-11-24T10:26:17.025Z"
+  }
+},{
+  "_id": {
+    "$oid": "6235df851fb06b9447e0e7fc"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "1000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "6235de901fb06b9447e0e7fb"
+  },
+  "created_at": {
+    "$date": "2022-03-19T13:49:57.506Z"
+  }
+},{
+  "_id": {
+    "$oid": "6235df9f1fb06b9447e0e7fd"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "250",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "6235de901fb06b9447e0e7fb"
+  },
+  "created_at": {
+    "$date": "2022-03-19T13:50:23.557Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421c981fb06b9447e0eafb"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:37:44.928Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421ca91fb06b9447e0eafc"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:38:01.784Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421cb71fb06b9447e0eafd"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:38:15.332Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421cc71fb06b9447e0eafe"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:38:31.777Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421cd21fb06b9447e0eaff"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "62421a711fb06b9447e0eaf7"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:38:42.713Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421d1d1fb06b9447e0eb00"
+  },
+  "bet_type": "single",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "10",
+  "lottery_id": {
+    "$oid": "62421ab11fb06b9447e0eaf8"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:39:57.671Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421d2a1fb06b9447e0eb01"
+  },
+  "bet_type": "single-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "150",
+  "lottery_id": {
+    "$oid": "62421ab11fb06b9447e0eaf8"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:40:10.016Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421d351fb06b9447e0eb02"
+  },
+  "bet_type": "double-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "300",
+  "lottery_id": {
+    "$oid": "62421ab11fb06b9447e0eaf8"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:40:21.185Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421d451fb06b9447e0eb03"
+  },
+  "bet_type": "triple-patti",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "600",
+  "lottery_id": {
+    "$oid": "62421ab11fb06b9447e0eaf8"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:40:37.155Z"
+  }
+},{
+  "_id": {
+    "$oid": "62421d581fb06b9447e0eb04"
+  },
+  "bet_type": "jodi",
+  "min_stake": "10",
+  "max_stake": "5000",
+  "rate": "100",
+  "lottery_id": {
+    "$oid": "62421ab11fb06b9447e0eaf8"
+  },
+  "created_at": {
+    "$date": "2022-03-28T20:40:56.764Z"
+  }
+}]
